@@ -17,13 +17,13 @@ english = {
 
 - 👯 I’m looking to collaborate on **Projects as a junior or intern**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jean-carje](https://github.com/Jean-carje)
+- 👨‍💻 All of my projects are available at [https://github.com/Jean-EstevezT](https://github.com/Jean-EstevezT)
 
 - 💬 Ask me about **python, science and art**
 
 - 📫 How to reach me **ctarriba9@gmail.com**
 
-- ⚡ Fun fact **illustrator and novice programmer**
+- ⚡ Fun fact **I love books and programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
