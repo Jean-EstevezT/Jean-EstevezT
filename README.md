@@ -28,12 +28,7 @@ english = {
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/jeancarje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jeancarje" height="30" width="40" /></a>
-<a href="https://twitter.com/jeanestevez7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jeanestevez7" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13702323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13702323" height="30" width="40" /></a>
-<a href="https://fb.com/toondoot-art" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="toondoot-art" height="30" width="40" /></a>
-<a href="https://instagram.com/art_estevez1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="art_estevez1" height="30" width="40" /></a>
-<a href="https://www.behance.net/jeanestevez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jeanestevez" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@toondootjean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@toondootjean" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@ctarriba9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ctarriba9" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ctarriba9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ctarriba9" height="30" width="40" /></a>
 </p>
