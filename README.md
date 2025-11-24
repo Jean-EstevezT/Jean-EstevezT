@@ -5,7 +5,7 @@
 ```python
 english = {
     "pronouns": "he" or "Him/His",
-    "code": ["Python", "Java", "C++", "Rust", "laTex"],
+    "code": ["Python", "Java", "C++/c", "Rust", "laTex", "JavaScript"],
     "challenge": "I am doing the challenge (100 programms) focused on python, javascrip, java and c++"
 }
 ```
