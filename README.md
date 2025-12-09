@@ -28,7 +28,7 @@ english = {
 
 - 🌱 I’m currently learning **java, rust**
 
-- 👯 I’m looking to collaborate on **Projects as a junior or intern**
+- 👯 I’m looking to collaborate on **Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jean-EstevezT](https://github.com/Jean-EstevezT)
 
