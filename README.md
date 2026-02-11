@@ -34,9 +34,7 @@ english = {
 
 - X: [@jeantvz](https://x.com/jeantvz)
 
-- 💬 Ask me about **python, science and art**
-
-- 📫 How to reach me **ctarriba9@gmail.com**
+- 💬 Ask me about **python, science and art** 
 
 - ⚡ Fun fact **I love books and programming**
 
